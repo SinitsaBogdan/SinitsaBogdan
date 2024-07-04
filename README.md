@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+---
+
+> #### Useful Links
+> - ⚡ [GitHub Icons](https://willkyu.github.io/ZONE/Emoji/Emoji.html)
+
+---
+
+> #### Projects in Frontend
+> - 🌱 [MESTO-FF](https://sinitsabogdan.github.io/yandex-frontend-mesto-project-ff/pages/home.html)
+> - 🌱 [SLOZHNO-SOSREDOTOCHITSYA](https://sinitsabogdan.github.io/yandex-frontend-slozhno-sosredotochitsya/)
+> - 🌱 [KARTY-PODSKAZHUT](https://sinitsabogdan.github.io/yandex-frontend-karty-podskazhut/)
+
 <!--
 **SinitsaBogdan/SinitsaBogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
